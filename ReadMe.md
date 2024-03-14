@@ -45,7 +45,7 @@ Public project showcasing [CRUD](https://GitHub.com/Gabbar-v7/CRUD) operations.
 ## 💰 You can help me by Donating
 <p align="center">
 <!-- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]() -->
-<a href="https://paypal.me/https://www.paypal.me/nullset7"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
+<a href="https://www.paypal.me/nullset7"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
 </p>
 
 
