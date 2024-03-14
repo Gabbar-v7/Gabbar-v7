@@ -1,10 +1,15 @@
+
 # 💫 About Me:
-<h3 align="center">👊 Computer Engineering student:</h3>
- - Passionate about computers and cybersecurity 
- - Learning Python with modules like Polars, Tkinter, and Flask 
- - Exploring Flutter for mobile app development 
+Computer Engineering student:
+
+- Passionate about computers and cybersecurity 
+
+- Learning Python with modules like Polars, Tkinter, and Flask 
+
+- Exploring Flutter for mobile app development 
 
 Public project showcasing [CRUD](https://GitHub.com/Gabbar-v7/CRUD) operations.
+
 
 # 🎉 Tech Stack:
 <p align="center">
