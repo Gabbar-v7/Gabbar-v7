@@ -1,9 +1,8 @@
 
 # 💫 About Me:
-<p style="font-weight: bold; font-size: 18px"> Computer Engineering student:</p>
+Computer Engineering student:
 
 - Passionate about computers and cybersecurity 
-
 
 - Learning Python with modules like Polars, Tkinter, and Flask 
 
