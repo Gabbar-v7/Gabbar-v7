@@ -38,7 +38,7 @@ Public project showcasing [CRUD](https://GitHub.com/Gabbar-v7/CRUD) operations.
 
 ----
 <p align="center">
-<a href="#"><img alt="ProfileViewCount" src="https://visitcount.itsvg.in/api?id=Gabbar-v7&icon=0&color=0"></a>
+  <a href="#"><img alt="ProfileViewCount" src="https://visitcount.itsvg.in/api?id=Gabbar-v7&icon=0&color=0" height="25"></a>
   <a href="https://leetcode.com/Gabbar-v7/"><img alt="LeetCode profile Gabbar-v7" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FGabbar-v7&logo=leetcode&logoColor=yellow" height="25"></a>
 </p>
 
