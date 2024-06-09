@@ -43,7 +43,7 @@ Public project showcasing [CRUD](https://GitHub.com/Gabbar-v7/CRUD) operations.
   <a href="https://leetcode.com/Gabbar-v7/"><img alt="LeetCode profile Gabbar-v7" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FGabbar-v7&logo=leetcode&logoColor=yellow" height="25"></a>
 </div>
 
-## 💰 Sponsor:
+## 💰 Support:
 <div align="center">
 
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]()
