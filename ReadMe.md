@@ -24,14 +24,15 @@ Public project showcasing [CRUD](https://GitHub.com/Gabbar-v7/CRUD) operations.
 <a href="#"><img src="https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF" alt="Gimp"></a>
 </p>
 
-# 💾 GitHub Stats:
+# 💾 Stats:
 <p align="center">
-<a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Gabbar-v7&theme=algolia&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"></a><br/>
-<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabbar-v7&theme=algolia&hide_border=false" alt="GitHub Streak"></a><br/>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbar-v7&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Gabbar-v7&theme=algolia&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"></a>
+  <br/><br/>
+  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabbar-v7&theme=algolia&hide_border=false" alt="GitHub Streak"></a>
+  <br/><br/>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbar-v7&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"></a>
 </p>
 
-### ♨️ Top Contributed Repo
 <p align="center">
 <a href="#"><img src="https://github-contributor-stats.vercel.app/api?username=Gabbar-v7&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"></a>
 </p>
@@ -42,7 +43,7 @@ Public project showcasing [CRUD](https://GitHub.com/Gabbar-v7/CRUD) operations.
   <a href="https://leetcode.com/Gabbar-v7/"><img alt="LeetCode profile Gabbar-v7" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FGabbar-v7&logo=leetcode&logoColor=yellow" height="25"></a>
 </p>
 
-## 💰 You can help me by Donating
+## 💰 Support Me:
 <p align="center">
 <!-- [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]() -->
 <a href="https://www.paypal.me/nullset7"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"></a>
