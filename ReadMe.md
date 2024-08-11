@@ -16,11 +16,11 @@ Public project showcasing [CRUD](https://GitHub.com/Gabbar-v7/CRUD) operations.
 <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54" alt="Python"></a>
 <a href="#"><img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black" alt="Matplotlib"></a>
 <a href="#"><img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white" alt="NumPy"></a>
-<a href="#"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn"></a>
+<a href="#"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"></a>
 <a href="#"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white" alt="Dart"></a>
 <a href="#"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white" alt="Flutter"></a>
+<a href="#"><img src="https://shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=000&style=flat-square" alt="JavaScript"></a>
 <a href="#"><img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13" alt="Inkscape"></a>
-<a href="#"><img src="https://img.shields.io/badge/Gimp-657D8B?style=flat&logo=gimp&logoColor=FFFFFF" alt="Gimp"></a>
 </div>
 
 ## 💾 Stats:
@@ -31,13 +31,13 @@ Public project showcasing [CRUD](https://GitHub.com/Gabbar-v7/CRUD) operations.
   <br/>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbar-v7&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"></a>
   <br/>
-  <a href="#"><img src="https://github-contributor-stats.vercel.app/api?username=Gabbar-v7&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"></a>
+  <a href="#"><img src="https://github-contributor-stats.vercel.app/api?username=Gabbar-v7&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories"></a>
 </div>
 
 ----
 <div align="center">
   <a href="#"><img alt="ProfileViewCount" src="https://visitcount.itsvg.in/api?id=Gabbar-v7&icon=0&color=0" height="25"></a>
-  <a href="https://leetcode.com/Gabbar-v7/"><img alt="LeetCode profile Gabbar-v7" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FGabbar-v7&logo=leetcode&logoColor=yellow" height="25"></a>
+  <a href="https://leetcode.com/Gabbar-v7/"><img alt="LeetCode" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FGabbar-v7&logo=leetcode&logoColor=yellow" height="25"></a>
 </div>
 
 ## 💰 Support:
