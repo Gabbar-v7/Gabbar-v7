@@ -1,7 +1,8 @@
 
 
 # 💫 About Me:
-**Computer Engineering Student**  
+
+### **Computer Engineering Student**  
 
 - Passionate about **computers, cybersecurity, and Linux**.  
 
@@ -15,23 +16,23 @@ Check out my [Portfolio](https://gabbar-v7.framer.website)!
 
 ## 🎉 Tech Stack:
 <div align="center">
-<img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C++&logoColor=white" alt="C++">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
-<img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=black&color=96D4AF" alt="Flask">
-<img src="https://img.shields.io/badge/Polars-CD792C.svg?style=for-the-badge&logo=Polars&logoColor=white" alt="Polars">
-<img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white&color=black" alt="Matplotlib">
-<img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" alt="Dart">
-<img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
-<img src="https://img.shields.io/badge/Inkscape-000000.svg?style=for-the-badge&logo=Inkscape&logoColor=white" alt="Inkscape">
-<img src="https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux">
-<img src="https://img.shields.io/badge/GNU%20Bash-4EAA25.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white" alt="Bash">
-<img src="https://img.shields.io/badge/Espressif-E7352C.svg?style=for-the-badge&logo=Espressif&logoColor=white" alt="ESPRESSIF">
-<img src="https://img.shields.io/badge/SQLAlchemy-D71F00.svg?style=for-the-badge&logo=SQLAlchemy&logoColor=white" alt="SQlAlchemy">
-<img src="https://img.shields.io/badge/Markdown-000000.svg?style=for-the-badge&logo=Markdown&logoColor=white&color=blue" alt="Markdown">
-<img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
-<img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/Render-000000.svg?style=for-the-badge&logo=Render&logoColor=white" alt="https://img.shields.io/badge/Render-000000.svg?style=for-the-badge&logo=Render&logoColor=white">
+<img src="https://img.shields.io/badge/C++-white.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white&color=black" alt="C++">
+<img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=JavaScript&logoColor=white&color=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Python-white.svg?style=for-the-badge&logo=Python&logoColor=white&color=black" alt="Python">
+<img src="https://img.shields.io/badge/Flask-white.svg?style=for-the-badge&logo=Flask&logoColor=white&color=black" alt="Flask">
+<img src="https://img.shields.io/badge/Polars-white.svg?style=for-the-badge&logo=Polars&logoColor=white&color=black" alt="Polars">
+<img src="https://img.shields.io/badge/Matplotlib-white.svg?style=for-the-badge&logo=Matplotlib&logoColor=white&color=black" alt="Matplotlib">
+<img src="https://img.shields.io/badge/Dart-white.svg?style=for-the-badge&logo=Dart&logoColor=white&color=black" alt="Dart">
+<img src="https://img.shields.io/badge/Flutter-white.svg?style=for-the-badge&logo=Flutter&logoColor=white&color=black" alt="Flutter">
+<img src="https://img.shields.io/badge/Inkscape-white.svg?style=for-the-badge&logo=Inkscape&logoColor=white&color=black" alt="Inkscape">
+<img src="https://img.shields.io/badge/Linux-white.svg?style=for-the-badge&logo=Linux&logoColor=white&color=black" alt="Linux">
+<img src="https://img.shields.io/badge/GNU%20Bash-white.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white&color=black" alt="Bash">
+<img src="https://img.shields.io/badge/Espressif-white.svg?style=for-the-badge&logo=Espressif&logoColor=white&color=black" alt="ESPRESSIF">
+<img src="https://img.shields.io/badge/SQLAlchemy-white.svg?style=for-the-badge&logo=SQLAlchemy&logoColor=white&color=black" alt="SQlAlchemy">
+<img src="https://img.shields.io/badge/Markdown-white.svg?style=for-the-badge&logo=Markdown&logoColor=white&color=black" alt="Markdown">
+<img src="https://img.shields.io/badge/Git-white.svg?style=for-the-badge&logo=Git&logoColor=white&color=black" alt="Git">
+<img src="https://img.shields.io/badge/Docker-white.svg?style=for-the-badge&logo=Docker&logoColor=white&color=black" alt="Docker">
+<img src="https://img.shields.io/badge/Render-white.svg?style=for-the-badge&logo=Render&logoColor=white&color=black" alt="Render">
 </div>
 
 ## 💾 Stats:
