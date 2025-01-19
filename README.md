@@ -39,13 +39,11 @@ Check out my [Portfolio](https://gabbar-v7.framer.website)!
 
 ## 💾 Stats:
 <div align="center">
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Gabbar-v7&theme=algolia&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats"></a>
-  <br/>
-  <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabbar-v7&theme=algolia&hide_border=false" alt="GitHub Streak"></a>
-  <br/>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbar-v7&theme=algolia&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages"></a>
-  <br/>
-  <a href="#"><img src="https://github-contributor-stats.vercel.app/api?username=Gabbar-v7&limit=5&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repositories"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Gabbar-v7&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="Gabbar-v7's Stats">
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabbar-v7&theme=midnight-purple&hide_border=false" alt="Gabbar-v7's Streak">
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbar-v7&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="Gabbar-v7's Top Languages">
 </div>
 
 ----
