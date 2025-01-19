@@ -21,7 +21,6 @@ Check out my [Portfolio](https://gabbar-v7.framer.website)!
 <img src="https://img.shields.io/badge/Git-white.svg?style=for-the-badge&logo=Git&logoColor=white&color=black" alt="Git">
 <img src="https://img.shields.io/badge/Docker-white.svg?style=for-the-badge&logo=Docker&logoColor=white&color=black" alt="Docker">
 <img src="https://img.shields.io/badge/Render-white.svg?style=for-the-badge&logo=Render&logoColor=white&color=black" alt="Render">
-
 <img src="https://img.shields.io/badge/C++-white.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white&color=black" alt="C++">
 <img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=JavaScript&logoColor=white&color=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/Python-white.svg?style=for-the-badge&logo=Python&logoColor=white&color=black" alt="Python">
