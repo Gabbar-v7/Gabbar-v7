@@ -16,6 +16,12 @@ Check out my [Portfolio](https://gabbar-v7.framer.website)!
 
 ## 🎉 Tech Stack:
 <div align="center">
+
+<img src="https://img.shields.io/badge/Markdown-white.svg?style=for-the-badge&logo=Markdown&logoColor=white&color=black" alt="Markdown">
+<img src="https://img.shields.io/badge/Git-white.svg?style=for-the-badge&logo=Git&logoColor=white&color=black" alt="Git">
+<img src="https://img.shields.io/badge/Docker-white.svg?style=for-the-badge&logo=Docker&logoColor=white&color=black" alt="Docker">
+<img src="https://img.shields.io/badge/Render-white.svg?style=for-the-badge&logo=Render&logoColor=white&color=black" alt="Render">
+
 <img src="https://img.shields.io/badge/C++-white.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white&color=black" alt="C++">
 <img src="https://img.shields.io/badge/JavaScript-white.svg?style=for-the-badge&logo=JavaScript&logoColor=white&color=black" alt="JavaScript">
 <img src="https://img.shields.io/badge/Python-white.svg?style=for-the-badge&logo=Python&logoColor=white&color=black" alt="Python">
@@ -29,10 +35,7 @@ Check out my [Portfolio](https://gabbar-v7.framer.website)!
 <img src="https://img.shields.io/badge/GNU%20Bash-white.svg?style=for-the-badge&logo=GNU-Bash&logoColor=white&color=black" alt="Bash">
 <img src="https://img.shields.io/badge/Espressif-white.svg?style=for-the-badge&logo=Espressif&logoColor=white&color=black" alt="ESPRESSIF">
 <img src="https://img.shields.io/badge/SQLAlchemy-white.svg?style=for-the-badge&logo=SQLAlchemy&logoColor=white&color=black" alt="SQlAlchemy">
-<img src="https://img.shields.io/badge/Markdown-white.svg?style=for-the-badge&logo=Markdown&logoColor=white&color=black" alt="Markdown">
-<img src="https://img.shields.io/badge/Git-white.svg?style=for-the-badge&logo=Git&logoColor=white&color=black" alt="Git">
-<img src="https://img.shields.io/badge/Docker-white.svg?style=for-the-badge&logo=Docker&logoColor=white&color=black" alt="Docker">
-<img src="https://img.shields.io/badge/Render-white.svg?style=for-the-badge&logo=Render&logoColor=white&color=black" alt="Render">
+
 </div>
 
 ## 💾 Stats:
