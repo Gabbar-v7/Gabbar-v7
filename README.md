@@ -1,20 +1,19 @@
-
-
 # 💫 About Me:
 
-### **Computer Engineering Student**  
+### **Computer Engineering Student**
 
-- Passionate about **computers, cybersecurity, and Linux**.  
+- Passionate about **computers, cybersecurity, and Linux**.
 
-- Proficient in **Python**, with expertise in modules like **Polars**, **Tkinter**, and **Flask**.  
+- Proficient in **Python**, with expertise in modules like **Polars**, **Tkinter**, and **Flask**.
 
-- Skilled in **Flutter** for cross-platform app development.  
+- Skilled in **Flutter** for cross-platform app development.
 
-- Currently exploring **Android Development** and **embedded engineering**.  
+- Currently exploring **Android Development** and **embedded engineering**.
 
-Check out my [Portfolio](https://gabbar-v7.framer.website)!  
+Check out my [Portfolio](https://gabbar-v7.framer.website)!
 
 ## 🎉 Tech Stack:
+
 <div align="center">
   
   <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=C%2B%2B&logoColor=white" alt="C++">
@@ -39,8 +38,8 @@ Check out my [Portfolio](https://gabbar-v7.framer.website)!
   <img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=black" alt="Render">
 </div>
 
-
 ## 💾 Stats:
+
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Gabbar-v7&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="Gabbar-v7's Stats">
 <br/>
@@ -49,20 +48,17 @@ Check out my [Portfolio](https://gabbar-v7.framer.website)!
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbar-v7&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="Gabbar-v7's Top Languages">
 </div>
 
-----
+---
+
 <div align="center">
   <!-- <a href="#"><img alt="ProfileViewCount" src="https://visitcount.itsvg.in/api?id=Gabbar-v7&icon=0&color=0" height="25"></a> -->
   <a href="https://leetcode.com/Gabbar-v7/"><img alt="LeetCode" src="https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FGabbar-v7&logo=leetcode&logoColor=yellow" height="25"></a>
 </div>
 
 ## 💰 Support:
+
 <div align="center">
-
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/Gabbar_v7)
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.me/GabbarShall)
-  
+    <a href="https://github.com/sponsors/Gabbar-v7"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="GitHub Sponsors" height=30></a>&nbsp;
+    <a href="https://buymeacoffee.com/gabbar_v7"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" height=30></a>&nbsp;
+    <a href="https://www.paypal.me/GabbarShall"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" height=30></a>
 </div>
-
-
-
-<!-- <a href=" "><img src=" " alt=" " height="25"></a> -->
