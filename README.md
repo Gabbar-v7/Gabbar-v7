@@ -41,11 +41,11 @@ Check out my [Portfolio](https://gabbar-v7.framer.website)!
 ## 💾 Stats:
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Gabbar-v7&theme=midnight-purple&show_icons=true&hide_border=false&count_private=true" alt="Gabbar-v7's Stats">
+<img src="https://ghstats.dev/api/card?username=gabbar-v7&theme=catppuccin&show_ring=false&hide_border=true&custom_title=GitHub+Stats&hide=hours%2Cstreak%2Cweek%2Ctrend%2Cavg%2Cactive_day%2Cgrade%2Crepos%2Cfollowers" alt="GitHub Stats">
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabbar-v7&theme=midnight-purple&hide_border=false" alt="Gabbar-v7's Streak">
+<img src="https://streak-stats.demolab.com?user=gabbar-v7&theme=catppuccin-macchiato&hide_border=true&background=1E1E2E" alt="GitHub Streak">
 <br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabbar-v7&theme=midnight-purple&show_icons=true&hide_border=false&layout=compact" alt="Gabbar-v7's Top Languages">
+<img src="https://ghstats.dev/api/sparkline?username=gabbar-v7&theme=catppuccin&days=30&width=495&height=90" alt="Monthly Sparkline">
 </div>
 
 ---
