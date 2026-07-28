@@ -53,12 +53,6 @@ Check out my [Portfolio](https://gabbar-v7.framer.website)!
 <div align="center">
   <!-- <a href="#"><img alt="ProfileViewCount" src="https://visitcount.itsvg.in/api?id=Gabbar-v7&icon=0&color=0" height="25"></a> -->
   <a href="https://leetcode.com/Gabbar-v7/"><img alt="LeetCode" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=30363D&color=30363D&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FGabbar-v7&logo=leetcode&logoColor=yellow" height="30"></a>
+  <a href="https://github.com/sponsors/Gabbar-v7"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="GitHub Sponsors" height=30></a>&nbsp;
 </div>
 
-## 💰 Support:
-
-<div align="center">
-    <a href="https://github.com/sponsors/Gabbar-v7"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="GitHub Sponsors" height=30></a>&nbsp;
-    <a href="https://buymeacoffee.com/gabbar_v7"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee" height=30></a>&nbsp;
-    <a href="https://www.paypal.me/GabbarShall"><img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" height=30></a>
-</div>
